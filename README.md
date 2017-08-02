@@ -1,1 +1,1 @@
-# Hangman-Game
+# The Psychic Game
